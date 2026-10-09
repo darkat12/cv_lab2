@@ -1,0 +1,6 @@
+frames/
+frames_detection/
+frames_segmentation/
+input.mp4
+__pycache__/
+*.pyc
